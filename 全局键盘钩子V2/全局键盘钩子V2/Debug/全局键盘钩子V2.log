@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (全局键盘钩子V2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  全局键盘钩子V2.vcxproj -> C:\Users\13959\Desktop\C++多线程与并发问题\全局键盘钩子V2\Debug\Q全局键盘钩子V2.exe
+  全局键盘钩子V2.vcxproj -> C:\Users\13959\Desktop\C++多线程与并发问题\全局键盘钩子V2\Debug\Q全局键盘钩子V2.pdb (Full PDB)

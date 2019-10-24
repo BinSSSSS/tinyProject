@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(198): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码
+  2 of 212 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  全局键盘钩子V2.vcxproj -> C:\Users\13959\Desktop\C++多线程与并发问题\全局键盘钩子V2\Release\Q全局键盘钩子V2.exe
+  全局键盘钩子V2.vcxproj -> C:\Users\13959\Desktop\C++多线程与并发问题\全局键盘钩子V2\Release\Q全局键盘钩子V2.pdb (Full PDB)
